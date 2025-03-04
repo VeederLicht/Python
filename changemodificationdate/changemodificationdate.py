@@ -1,7 +1,7 @@
-    """
-    Recursively traverses a directory and modifies the creation date of files
-    based on the first 8 characters of their filenames. (thanks Gemini for the initial direction ;-)
-    """
+"""
+Recursively traverses a directory and modifies the creation date of files
+based on the first 8 characters of their filenames. (thanks Gemini for the initial direction ;-)
+"""
 
 import os
 import datetime
